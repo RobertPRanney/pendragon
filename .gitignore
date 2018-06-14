@@ -3,4 +3,5 @@ data/test_df.pkl
 data/train_df.pkl
 data/kaggle_submission.csv
 data/*
-note_pendragon
+notes_pendragon
+test.ipynb
